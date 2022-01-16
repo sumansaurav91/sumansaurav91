@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumansaurav91
+- 👋 Hi, I’m **Suman Saurav**
 - 👀 I’m interested in solving real world problem in a simplistic manner
 - 🌱 I’m currently learning Angular and Software Engineering Best Practices
 - 💞️ I’m looking to collaborate on Open Source Project
