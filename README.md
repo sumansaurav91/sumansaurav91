@@ -2,7 +2,6 @@
 - 👀 I’m interested in solving real world problem in a simplistic manner
 - 🌱 I’m currently learning Angular and Software Engineering Best Practices
 - 💞️ I’m looking to collaborate on Open Source Project
-- [**LeetCode**](https://leetcode.com/sumansaurav18/)
 - [**LinkedIn**](https://www.linkedin.com/in/sumansaurav18/)
 
 <!---
