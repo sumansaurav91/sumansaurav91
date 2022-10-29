@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **Suman Saurav**
 - 👀 I’m interested in solving real world problem in a simplistic manner
-- 🌱 I’m currently learning React and Working with a start up [**Femlyst**](https://www.femlyst.com/)
 - 💞️ I’m looking to collaborate on Open Source Project
 - [**LinkedIn**](https://www.linkedin.com/in/sumansaurav18/)
 
