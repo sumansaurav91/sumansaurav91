@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **Suman Saurav**
 - 👀 I’m interested in solving real world problem in a simplistic manner
-- 💞️ I’m looking to collaborate on Open Source Project
+- 💞️ I’m open to collaborate on Open Source Project
 - [**LinkedIn**](https://www.linkedin.com/in/sumansaurav18/)
 
 <!---
